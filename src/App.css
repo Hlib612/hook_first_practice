@@ -182,3 +182,9 @@
     border-right-color: var(--border);
   }
 }
+.dark{
+  background-color: rgb(21, 22, 29);
+}
+.light{
+  background-color: rgb(194, 216, 235);
+}
