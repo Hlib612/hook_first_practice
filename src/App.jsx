@@ -3,6 +3,7 @@ import './App.css'
 import Counter from './components/Counter'
 import Timer from './components/Timer'
 import Togle from './components/Togle'
+import LocalStorage from './components/LocalStorage'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Counter/>
       <Timer/>
       <Togle/>
+      <LocalStorage/>
     </>
   )
 }
